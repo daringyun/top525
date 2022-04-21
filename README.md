@@ -545,6 +545,8 @@ https://github.com/laravel/laravel
   
 ## rust  
 https://github.com/rust-lang/rust  
+https://github.com/alacritty/alacritty
+
   
 ## ruby  
 https://github.com/rails/rails  
